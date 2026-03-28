@@ -2,8 +2,6 @@
 ⚡ Electronics Engineer | AI Systems Architect | Automation Strategist<br>I am an Electronics Engineer and AI Architect based in Barrie, Ontario 🇨🇦. My approach goes beyond traditional software development; it is rooted in Process Engineering. I apply industrial automation principles to optimize any workflow—from factory floors to complex administrative systems.<br><br>🚀 Current Focus:<br><br>🏢 Ndigitalhorizon: Designing SaaS and IIoT architectures to eliminate operational bottlenecks.<br><br>🤖 AI Solutions: Implementing state-of-the-art LLMs and Generative AI to transform raw data into autonomous, scalable workflows across diverse environments.<br><br>⚙️ IIoT Platforms: Building monitoring ecosystems using Docker, Thingboard, and Cloud Integration to bridge the gap between hardware and intelligent decision-making.<br><br>💡 My Philosophy:<br>"If a process is repetitive, it can be optimized. If it generates data, it can be made intelligent."<br><br>🛠️ Core Tech: Industrial Automation, Agnostic AI Implementation, Edge Computing, and Systems Integration.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-naranjo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylannaranjo92@gmail.com) 
 
 # 💻 Tech Stack: 
 <table><tr><td valign="top" width="33%">
@@ -38,4 +36,6 @@
 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-naranjo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylannaranjo92@gmail.com) 
 
