@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=%F0%9F%92%AB+About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2BF729&width=435&lines=%F0%9F%92%AB+About+Me%3A)](https://git.io/typing-svg)
 
 ⚡ Electronics Engineer | AI Systems Architect | Automation Strategist<br>I am an Electronics Engineer and AI Architect based in Barrie, Ontario 🇨🇦. My approach goes beyond traditional software development; it is rooted in Process Engineering. I apply industrial automation principles to optimize any workflow—from factory floors to complex administrative systems.<br><br>🚀 Current Focus:<br><br>🏢 Ndigitalhorizon: Designing SaaS and IIoT architectures to eliminate operational bottlenecks.<br><br>🤖 AI Solutions: Implementing state-of-the-art LLMs and Generative AI to transform raw data into autonomous, scalable workflows across diverse environments.<br><br>⚙️ IIoT Platforms: Building monitoring ecosystems using Docker, Thingboard, and Cloud Integration to bridge the gap between hardware and intelligent decision-making.<br><br>💡 My Philosophy:<br>"If a process is repetitive, it can be optimized. If it generates data, it can be made intelligent."<br><br>🛠️ Core Tech: Industrial Automation, Agnostic AI Implementation, Edge Computing, and Systems Integration.
 
 
 
-# 💻 Tech Stack: 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2BF729&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
+
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -37,7 +38,8 @@
 </td></tr></table>
 
 
-## 🌐 Socials:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2BF729&width=435&lines=%F0%9F%8C%90++Socials%3A)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-naranjo/) [![Portfolio](https://img.shields.io/badge/Portfolio-%2324292e.svg?logo=google-chrome&logoColor=white)](https://joseph.ndigitalhorizon.com/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylannaranjo92@gmail.com)
 
 
