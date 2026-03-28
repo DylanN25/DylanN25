@@ -37,5 +37,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-naranjo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylannaranjo92@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-naranjo/) [![Portfolio](https://img.shields.io/badge/Portfolio-%2324292e.svg?logo=google-chrome&logoColor=white)](https://joseph.ndigitalhorizon.com/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylannaranjo92@gmail.com)
+
 
